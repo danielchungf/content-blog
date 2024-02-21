@@ -1,6 +1,7 @@
 ---
 title: El tablero de Ikea
 description: Custom meta description
+navigation: false
 ---
 
 # El tablero de Ikea
