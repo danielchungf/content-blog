@@ -1,4 +1,5 @@
 ---
+navigation: false
 title: Un nuevo inicio
 description: Hace mucho tiempo que no escribo textos que solo van a ser leídos.
 ---
